@@ -1,5 +1,14 @@
 # Seguimiento de proyectos BackUp
 
+## Índice
+1. [Descripción](#descripción)
+2. [Funcionalidades](#funcionalidades)
+3. [Tecnologías utilizadas](#tecnologías-utilizadas)
+4. [Instalación](#instalación)
+5. [Uso](#uso)
+6. [Contribuciones](#contribuciones)
+7. [Licencia](#licencia)
+
 ## Descripción
 
 Este proyecto tiene como objetivo asegurar la preservación de datos críticos mediante un sistema de respaldo para proyectos de seguimiento. La aplicación permite al usuario descargar toda la información almacenada, con la opción de generar un archivo JSON o realizar una migración completa de la base de datos desde Firebase (NoSQL) a una base de datos MySQL (SQL).
@@ -50,3 +59,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 Este proyecto está licenciado bajo la Licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0). Puedes usar, modificar y distribuir el código para fines no comerciales siempre que otorgues el crédito correspondiente a su autor, Mario Borrego. Para cualquier uso comercial de este software, por favor, contacta previamente con el autor.
 
 Para más detalles, visita: CC BY-NC 4.0.
+
+<div class="footer">
+    &copy; 2024 Mario Borrego
+</div>
